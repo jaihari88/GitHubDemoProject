@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/naveen/Desktop/SeleniumComplete/Apache CommonsIO/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Desktop/SeleniumComplete/Apache POI/extentreports-5.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Desktop/SeleniumComplete/Apache POI/log4j-core-2.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Desktop/SeleniumComplete/Apache POI/ooxml-schemas-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Desktop/SeleniumComplete/Apache POI/poi-5.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Desktop/SeleniumComplete/Apache POI/poi-ooxml-5.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Desktop/SeleniumComplete/Apache POI/poi-ooxml-full-5.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Desktop/SeleniumComplete/Maven 3.8.4/maven-compiler-plugin-3.10.1 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Desktop/SeleniumComplete/Selenium Java 3.141.59/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Desktop/SeleniumComplete/selenium-remote-driver-3.141.59/selenium-remote-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Desktop/SeleniumComplete/selenium-server-standalone-3.141.59/selenium-server-standalone-3.141.59 (2).jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Desktop/SeleniumComplete/TestNG/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Desktop/SeleniumComplete/webdriver manager/webdrivermanager-5.1.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
